@@ -1,10 +1,9 @@
 # M2-EmbSys
 ## Mini Project for Project Based Embedded System Learning
 
-## Folder Structure
+## Project Folder Structure 
 | Folder              | Description                                                                                                     |
 | :------------------ | :-------------------------------------------------------------------------------------------------------------- |
-| 0_CaseStudy         | Case study on 2 embedded system application                                                                     |
 | 1_Requirements      | Capture all the requirements wrt system, module, interface, integration, testing, functional and non-functional |
 | 2_Architecture      | UML diagrams specifying design details                                                                          |
 | 3_Implementation    | Code and documentation                                                                                          |
