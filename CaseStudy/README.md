@@ -22,7 +22,15 @@
 ## Case study - 2
 ---------------------------------------------------
 ### Smart Bicycle System
-![Smart Bicycle System_Block Diagram](2022-02-20-16-55-23.png)
+![Smart Bicycle System_Block Diagram](2022-02-25-20-24-47.png)
+* __Relay__
+    * To interface with solenoid lock for locking and unlocking.
+* __LCD Display__
+    * Displays information like distance of any object/vehicle from bicycle.
+* __Solenoid Lock__
+    * To lock the bicycle in parking station.
+* __Ultrasonic Distance Sensor__
+    * To sense and alert user of any object/vehicle in close proximity.
 * __GPS__
     * To enable location tracking.
 * __Bluetooth__
