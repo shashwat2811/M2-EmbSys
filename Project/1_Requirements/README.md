@@ -10,7 +10,7 @@ This project aims to add on features like distance sensors and centralised locki
 - Connection with central server to collect informations like distance travelled, location, time of locking and unlocking the bicycle etc.
 
 ## **SWOT Analysis**
-
+![SWOT Analysis](2022-02-26-14-03-20.png)
 
 ## **5W's and 1H**
 - ### **Who:**
