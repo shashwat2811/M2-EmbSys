@@ -21,3 +21,6 @@
 
 - ### Low Level Flow Chart Diagram
 ![Low Level Flow Chart](2022-02-26-15-21-26.png)
+
+## **Use-case diagram**
+![Use-case diagram](2022-02-26-15-58-10.png)
