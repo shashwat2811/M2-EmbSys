@@ -43,5 +43,7 @@
     * To enable communication with central server which will store informations like distance travelled, location, time of locking and unlocking the bicycle etc.
 * __Fingerprint reader__
     * Enables docking and undocking of bicycle from parking station. It is optional since this obejctive can be achieved from RFID as well. But, for larger scale fingerprint reader is suggested given that many user might not be carrying their RFID tags (say adhaar card or driving licence) all the time.
+* __Server__
+    * To store rider data.
 * __UART__
     * To transmit and receive serial data.
