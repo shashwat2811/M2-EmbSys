@@ -1,6 +1,6 @@
 # **Requirements**
 ## **Introduction**
-This project aims to add on features like distance sensors and centralised locking system to make bicycles smarter and setup a reliable renting system. This re-designed bicycle infrasturcture is aimed towards making it user-friendly and cost-effective. The work in this project is driven towards deployment of sensors on bicycle and parking station.
+This project aims to add on features like distance sensors and centralised locking system to make bicycles smarter and setup a reliable renting system. This re-designed bicycle infrasturcture is aimed towards making it user-friendly and cost-effective. The work in this project is driven towards deployment of sensors on bicycles and parking stations.
 
 ## **Features**
 - Installed with ultrasonic sensor to measure distance and alert the rider of any object/vehicle in close proximity of the bicycle.
